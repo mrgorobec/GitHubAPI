@@ -1,0 +1,16 @@
+git_hub:
+  url: https://api.github.com
+
+test_data:
+  owner: keyprqa
+  repo:
+    name: TestRepo
+  branches:
+    - branch_3
+    - branch_4
+    - branch_5
+    - branch_6
+    - branch_7
+    - branch_8
+    - no_conflicts
+  conflict_branch: conflict_branch
