@@ -1,6 +1,6 @@
-requests==2.10.0
+requests>=2.20.0
 pytest==2.9.0
 behave==1.2.5
 PyHamcrest
 Faker
-pyyaml==3.11
+pyyaml>=4.2b1
