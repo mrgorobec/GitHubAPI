@@ -6,5 +6,5 @@ install: "pip install -r requirements.txt"
 # command to run tests
 script:
   - py.test -v py_tests/
-  - behave bdd_tests/
+#   - behave bdd_tests/
 
